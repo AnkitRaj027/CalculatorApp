@@ -108,8 +108,5 @@ document.addEventListener('DOMContentLoaded', ()=>{
         } catch (e) {
             area.textContent = "Error";
         }
-    
-})
-
-
-
+    })
+});
